@@ -1,4 +1,23 @@
 h1, h2{
     text-align:center;
 
+
 }
+#chef-img{
+    width: 60%;
+    
+}
+#recipe-img{
+    justify-content: center; 
+    width: 60%;
+}
+.recipe-title{
+    text-align:center ;
+    font-size: 3em; 
+
+}
+p{
+    font-size: 1.3em;
+    text-align: center;
+}
+
