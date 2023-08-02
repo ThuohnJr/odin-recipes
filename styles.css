@@ -59,6 +59,7 @@ ul ,ol{
 a:active{
     text-decoration: none;
     list-style: none;
+    color:black; 
 }
 a:visited{
     color: black;
